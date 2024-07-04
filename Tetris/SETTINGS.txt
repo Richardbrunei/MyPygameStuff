@@ -1,0 +1,53 @@
+TETRIS SETTINGS:
+
+
+
+				Sensitivity:
+
+
+							 (1,1) is hardcore
+							 (65,80) is normal
+							 (150,150) is great for difficult manuvers
+				Speed:
+
+							 
+							 100 or more is hardcore
+							 30 is normal
+							 20 is best for difficult manuvers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+_________________________________________________________________________________________
+																						|
+										notes											|
+_________________________________________________________________________________________
+1. Rachel is terrible at all of the settings                                            |
+2. She sucks																			|
+_________________________________________________________________________________________
